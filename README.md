@@ -17,31 +17,31 @@ I'm a Software Engineer with over 5 years of hands-on experience in backend deve
 <!--Tech Stack-->
 ## Tech Stack
 
-<a href="https://www.python.org">
+<a href="https://www.python.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" />
 </a>&nbsp;
-<a href="https://www.djangoproject.com">
+<a href="https://www.djangoproject.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=django" />
 </a>&nbsp;
-<a href="https://flask.palletsprojects.com">
+<a href="https://flask.palletsprojects.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=flask" />
 </a>&nbsp;
-<a href="https://fastapi.tiangolo.com">
+<a href="https://fastapi.tiangolo.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=fastapi" />
 </a>&nbsp;
-<a href="https://www.postgresql.org">
+<a href="https://www.postgresql.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=postgres" />
 </a>&nbsp;
-<a href="https://www.mongodb.com">
+<a href="https://www.mongodb.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </a>&nbsp;
-<a href="https://www.docker.com">
+<a href="https://www.docker.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker" />
 </a>&nbsp;
-<a href="https://aws.amazon.com/">
+<a href="https://aws.amazon.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=aws" />
 </a>&nbsp;
-<a href="https://cloud.google.com/">
+<a href="https://cloud.google.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=gcp" />
 </a>
 
