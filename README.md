@@ -3,17 +3,17 @@
 ## About Me
 > In an endless pursuit of Clean Code, Clean Architecture, and 100% code coverage...
 
-I'm a Software Engineer with over 4 years of hands-on experience in backend development, specializing in Python, Django, and Django Rest Framework (DRF). My expertise extends to cloud computing platforms such as AWS and GCP, where I have designed and implemented scalable and efficient backend systems.
+I'm a Software Engineer with over 5 years of hands-on experience in backend development, specializing in Python, Django, and Django Rest Framework (DRF). My expertise extends to cloud computing platforms such as AWS and GCP, where I have designed and implemented scalable and efficient backend systems.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40"/> Technologies I like the most: Python, Django and Django Rest Framework (DRF).
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40"/> Technologies I like the most: Python, Django, and Django Rest Framework (DRF).
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="40" height="40"/> Software Engineer graduated at [INATEL](https://inatel.br/home/).
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40"/> I'm always willing to learn and my favorite hobby is to study new technologies.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40"/> I'm always willing to learn, and my favorite hobby is to study new technologies.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="40" height="40"/> I'm currently studying System Design, Cloud Technologies and Flutter.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="40" height="40"/> I'm currently studying System Design, Cloud Technologies, and Flutter.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="40" height="40"/> My goals are to become a Software Architect, a Tech Lead and eventually to start my own software company. 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="40" height="40"/> My goals are to become a Software Architect, a Tech Lead, and eventually to start my own software company. 
 
 ## Tech Stack
 <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py"></a>&nbsp;
