@@ -26,7 +26,8 @@ I'm a Software Engineer with over 5 years of hands-on experience in backend deve
 <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker"></a>&nbsp;
 <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"></a>&nbsp;
 <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp"></a>&nbsp;
-<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux"></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux"></a>&nbsp;
+<a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka"></a>
 
 ## Contact
 <a href="https://www.linkedin.com/in/maycol-teles"><img src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
