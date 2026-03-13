@@ -3,7 +3,7 @@
 ## About Me
 > In an endless pursuit of Clean Code, Clean Architecture, and 100% code coverage...
 
-I'm a Software Engineer with over 5 years of hands-on experience in backend development, specializing in Python, Django, and Django Rest Framework (DRF). My expertise extends to cloud computing platforms such as AWS and GCP, where I have designed and implemented scalable and efficient backend systems.
+I'm a Software Engineer with over 7 years of hands-on experience in backend development, specializing in Python, Django, and Django Rest Framework (DRF). My expertise extends to cloud computing platforms such as AWS and GCP, where I have designed and implemented scalable and efficient backend systems.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="40" height="40"/> Technologies I like the most: Python, Django, and Django Rest Framework (DRF).
 
