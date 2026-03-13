@@ -35,7 +35,7 @@ I'm a Software Engineer with over 5 years of hands-on experience in backend deve
 <a href="https://github.com/MaycolTeles"><img src="https://skillicons.dev/icons?i=github"></a>&nbsp;&nbsp;
 <a href="mailto:maycolteles@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
 
-or check my resume [here](https://drive.google.com/file/d/19nCNTLvS8W7CnVHlh9bh5eSBK2dU5Vxs/view?usp=sharing)!
+or check my resume [here](https://drive.google.com/file/d/1cDD2mqq2VsS4O7aXIXUU3WDhf83MS6I7/view?usp=sharing)!
 
 ## Personal Philosophy
 > "Getting software right is hard. It takes knowledge and skills that most programmers haven’t yet acquired. It requires thought and insight that most programmers don’t take the time to develop. It requires a level of discipline and dedication that most programmers never dreamed they’d need. Mostly, it takes a passion for the craft and the desire to be a professional." - Uncle Bob, "Clean Architecture".
